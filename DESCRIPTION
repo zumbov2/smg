@@ -1,0 +1,15 @@
+Package: smg
+Type: Package
+Title: Retrieve Geodata Using the 'Swiss Maps Generator' Webtool
+Version: 0.1.0
+Author: David Zumbach [aut, cre]
+Maintainer: David Zumbach <david.zumbach@gfzb.ch>
+Description: Call the 'Swiss Maps Generator' <https://swiss-maps.vercel.app/> to
+    get geodata of Swiss cantons and municipalities since 2010.
+License: MIT + file LICENSE
+URL: https://github.com/zumbov2/smg
+Encoding: UTF-8
+RoxygenNote: 7.1.2
+Imports: httr, sf
+NeedsCompilation: no
+Packaged: 2021-10-13 11:11:36 UTC; david
